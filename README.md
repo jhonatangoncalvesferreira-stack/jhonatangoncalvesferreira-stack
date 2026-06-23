@@ -1,16 +1,14 @@
-## Hi there 👋
+## Sobre mim
+ Olá, eu sou Jhonatan gustavo goncalves ferreira
+Sou estudante e estou aprendendo programação.
 
-<!--
-**jhonatangoncalvesferreira-stack/jhonatangoncalvesferreira-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tecnologias que estou estudando
+- HTML
+- CSS
+- JavaScript
 
-Here are some ideas to get you started:
+##Objetivos
+	## Não tenha medo. Deus está no controle de tudo
+## Contato
+- E-mail:jhonatan.goncalves.ferreira@escola.pr.gov.br
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
